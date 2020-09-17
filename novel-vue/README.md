@@ -1,4 +1,4 @@
-# net-easy-music
+# novel-vue
 
 ## Project setup
 ```
