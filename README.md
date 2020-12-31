@@ -1,6 +1,8 @@
 # DIY-novel-vue
 自定义小说漫画听书+mysql后台，vue开发
 
+# 项目演示地址
+http://dhqm.xyz/
 # 关于LoginShare
 
 ### 这个是后台用户提供API接口的服务器。
